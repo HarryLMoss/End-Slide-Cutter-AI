@@ -1,4 +1,4 @@
-# End-Slide-Cutter-AI
+# End Slide Cutter AI
 
 ****PLEASE NOTE: This project is still in progress, files are in the process of being uploaded as we speak. Please check other available projects on this [link.](https://github.com/HarryLMoss) Thank you for your patience.***
 
