@@ -52,6 +52,8 @@ Special thanks to the TensorFlow and OpenCV communities for providing extensive 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
 
+[My GitHub Profile](https://github.com/HarryLMoss)
+
 ---
 
 © 2024 Harry Moss. All Rights Reserved.
