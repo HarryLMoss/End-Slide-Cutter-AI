@@ -44,7 +44,7 @@ Contributions to improve the End Slide Detection System are welcome. Please foll
 - Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 ## Acknowledgments
 Special thanks to the TensorFlow and OpenCV communities for providing extensive documentation and resources that greatly assisted in this project's development.
