@@ -52,7 +52,7 @@ Special thanks to the TensorFlow and OpenCV communities for providing extensive 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
 
-[My GitHub Profile](https://github.com/HarryLMoss)
+Other AI/Digital Signal Processing projects can be found on my [GitHub Profile](https://github.com/HarryLMoss)
 
 ---
 
