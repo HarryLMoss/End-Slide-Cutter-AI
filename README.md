@@ -13,7 +13,7 @@ This project focuses on developing a machine learning model capable of detecting
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/end-slide-detection.git
+git clone https://github.com/harrylmoss/end-slide-detection.git
 cd end-slide-detection
 ```
 Ensure you have Python 3.x installed, and then install the required dependencies:
