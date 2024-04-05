@@ -22,6 +22,17 @@ Ensure you have Python 3.x installed, and then install the required dependencies
 pip install -r requirements.txt
 ```
 ## Usage
+First, preprocess the video content (ensuring to first change the directories to the correct location of video content in the python files beforehand) by running:
+
+```bash
+python preProcessorTraining.py
+```
+
+then by running (in order to preprocess data before building the "_model".h file):
+
+```bash
+python preProcessorMain.py
+```
 To start processing videos and detecting end slides, run:
 
 ```bash
