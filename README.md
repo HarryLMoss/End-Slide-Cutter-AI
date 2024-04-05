@@ -28,7 +28,7 @@ First, preprocess the video content (ensuring to first change the directories to
 python preProcessorTraining.py
 ```
 
-then by running (in order to preprocess data before building the "_model".h file):
+Now, in order to preprocess data before building the "_model".h file, run:
 
 ```bash
 python preProcessorMain.py
