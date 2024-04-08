@@ -9,6 +9,10 @@ This project focuses on developing a machine learning model capable of detecting
 - **Video Frame Extraction**: Processes videos to extract relevant frames for analysis, targeting specific time windows to optimise performance.
 - **Deep Learning Model**: Leverages the VGG16 model for accurate end slide detection, trained on a custom dataset of video frames.
 - **Efficiency Improvements**: Includes a system to avoid reprocessing videos, enhancing the usability of the system for iterative testing and development.
+- **OpenAI**, for the GPT models that inspired aspects of our machine learning approach.
+- **The JUCE Framework Team**, for their audio processing and GUI library, critical in developing our real-time music generation capabilities.
+- **The Python Community**, for their extensive resources and forums, which were invaluable throughout the development process.
+- **The C++ Community**, for their shared knowledge and resources on C++ programming, greatly assisting in the technical aspects of our project.
 
 ## Installation
 Clone this repository to your local machine:
