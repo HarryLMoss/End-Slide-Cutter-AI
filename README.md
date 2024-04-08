@@ -63,10 +63,7 @@ Contributions to improve the End Slide Detection System are welcome. Please foll
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 ## Acknowledgements
-I am grateful for the support and contributions from various individuals and organisations that made the "Bhairagini AI" project possible:
-
-- **The spaCy Team**, for their natural language processing library, essential in the textual analysis and information extraction phases of our project.
-- **The PyMuPDF Team**, whose library facilitated the conversion of our source texts from PDF to a processable format.
+Special thanks to the TensorFlow and OpenCV communities for providing extensive documentation and resources that greatly assisted in this project's development.
 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
