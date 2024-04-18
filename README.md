@@ -45,10 +45,7 @@ python modelRunning.py
 ```
 Ensure your video files are placed in the designated testVideos directory as specified in the script parameters.
 
-## Project Structure
-modelRunning.py: The main script for processing videos, extracting frames, and running the detection model.
-requirements.txt: Lists all the project dependencies for easy installation via pip.
-best_model.h5: The pretrained TensorFlow model optimized for detecting end slides.
+
 
 ## Contributing
 Contributions to improve the End Slide Detection System are welcome. Please follow these steps to contribute:
