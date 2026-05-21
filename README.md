@@ -1,7 +1,5 @@
 # End Slide Cutter AI
 
-****PLEASE NOTE: This project is still in progress, files are in the process of being uploaded as we speak. Please check other available projects on this [link.](https://github.com/HarryLMoss) Thank you for your patience.***
-
 ## Project Overview
 This project focuses on developing a machine learning model capable of detecting and extracting end slides from video content. It utilizes TensorFlow and OpenCV for processing video frames and employs a pretrained VGG16 model for enhanced feature extraction. The goal is to accurately identify the transition to end slides in videos, enabling automated content editing and analysis.
 
